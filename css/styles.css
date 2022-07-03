@@ -1,0 +1,34 @@
+/* div {
+    background-color: #FEE3EC;
+} */
+
+
+h1, body {
+    margin: 0;
+}
+
+
+.top-container {
+    /* align-items: center; */
+    background-color: #FEE3EC;
+    text-align: center;
+}
+
+
+.middle-container {
+    background-color: aquamarine;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container {
+    background-color: blueviolet;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+.underline {
+    text-decoration: underline;
+}
